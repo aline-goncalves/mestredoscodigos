@@ -10,7 +10,7 @@
 * [Trabalhando com exceções](https://github.com/aline-goncalves/mestredoscodigos/blob/main/conhecendoplataforma/Excecoes.md)
 * [Trabalhando com qualidade de código](https://github.com/aline-goncalves/mestredoscodigos/blob/main/conhecendoplataforma/QualidadeCodigo.md)
 ### 3. Vamos praticar
-* [Problema Judge 1](https://github.com/aline-goncalves/mestredoscodigos/blob/main/vamospraticar/problemajudge1\nd.md)
-* [Problema Judge 2](https://github.com/aline-goncalves/mestredoscodigos/blob/main/vamospraticar/problemajudge2\nd.md)
+* [Problema Judge 1](https://github.com/aline-goncalves/mestredoscodigos/blob/main/vamospraticar/problemajudge1/nd.md)
+* [Problema Judge 2](https://github.com/aline-goncalves/mestredoscodigos/blob/main/vamospraticar/problemajudge2/nd.md)
 
 
