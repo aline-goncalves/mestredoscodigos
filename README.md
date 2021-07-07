@@ -1,5 +1,5 @@
 # <center>Território de Java - Mestre dos Códigos</center>
-### <center>Escudeira Aline Toneti Gonçalves</center>
+### <center>Candidata ao nível escudeiro Aline Toneti Gonçalves</center>
 
 ### 1. [O básico do Java](basicojava\BasicoJava.md)
 ### 2. Conhecendo a plataforma
