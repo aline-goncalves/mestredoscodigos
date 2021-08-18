@@ -4,7 +4,33 @@
 &nbsp;
 
 #### **Hisórico da linguagem**  
-*A liguagem Java foi criada em 1991 na empresa Sun Microsystems, a qual pertence à Oracle atualmente. Foi resultado do* Green Project *
+
+&nbsp;
+*A liguagem Java foi criada em 1991 na empresa* Sun Microsystems, *a qual pertence à Oracle atualmente. Foi resultado do* Green Project *que visava modernos* softwares *para empresas de eletrônicos. Um tipo de dispositivo desenvolvido na época é o* Personal Digital Assistant *(PDA)* 
+
+&nbsp;
+*O principal objetivo do projeto era a comunicação entre variados tipos de eletrônicos. Dessa forma, a equipe do* Green Project *percebeu que, para isso, deveriam se desprender dos Sistemas Operacionais (SO), pois seria inviável criar várias versões de um mesmo sistema.* 
+
+&nbsp;
+*A princípio, desenvolveram o próprio SO com* interface *gráfica padronizada e o nomearam* GreenOS. *Após isso, a equipe desenvolveu um PDA chamado* Star7, *que utilizava o* GreenOS. *Com esse dispositivo, a empresa* Sun Microsystems *participou de um concurso para desenvolvimento de uma TV a cabo interativa, o qual perdeu. Próximo ao corte do financiamento do projeto, decidiram voltar o foco para a* internet, *que estava se fortalecendo.* 
+
+&nbsp;
+*Foi então iniciado o desenvolvimento da linguagem Java. Na época, ela teria o nome de* Oak *(carvalho), porém se tratava de um nome já registrado. Essa nomeação teve como justificativa o fato de o chefe do projeto,* James Gosling, *enquanto montava uma estrutura de diretórios para a linguagem, via pela janela um carvalho.*   
+
+&nbsp;
+*Como o nome* "Oak" *não pôde ser utilizado, foi decidido homenagear uma ilha da Indonésia, a qual fornecia o café consumido pela equipe de* James Gosling. *Essa é a explicação não somente do nome "Java", como também da logo atribuída à linguagem.*    
+
+&nbsp;
+*Até 1994 não havia uma aplicação definida para o Java. Portanto, neste mesmo ano, foi elaborado um navegador que podia executar programas escritos em Java* (applets). *Esse navegador se chamava* Web Runner. *O Java só foi oficialmente lançado em 1995, não somente a linguagem, como também o ambiente.*  
+
+&nbsp;
+*Em 1996, em uma iniciativa inédita, a* Sun Microsystems *disponibilizou, gratuitamente, um kit de desenvolvimento de* software *para a comunidade, o* Java Developer`s Kit *(JDK). A partir daí a aceitação da tecnologia Java cresceu rapidamente entre empresas e desenvolvedores. Logo, a* Sun Microsystems *lançou novas versões do JDK com melhorias significativas e novos recursos para serem aplicados no desenvolvimento de aplicações gráficas e distribuídas.*  
+
+&nbsp;
+*Com isso, a linguagem, ambiente e kit de desenvolvimento Java se tornaram muito utilizados, inclusive por empresas como a IBM. A tecnologia Java foi uma das mais rapidamente incorporadas na historia da informática. Em 2003 o Java já tinha mais de 4 milhões de desenvolvedores, alcançando dezenas de produtos diferentes como computadores, celulares, palmtops, e até produtos da* Apple, *atingindo assim o objetivo inicial do* Green Project.    
+
+&nbsp;
+*Em 2006 o Java começou a estar sob licença de* Software *Livre, e a maioria de suas partes foi disponibilizada para o publico, gratuitamente, sob Licença GNU. Em 2009, a Oracle ofereceu US$ 7,4 bilhões pela aquisição da* Sun Microsystems *e a proposta foi aceita. Desse modo, a Oracle se tornou proprietária de vários produtos, incluindo o Java e o sistema operacional Solaris.*     
 
 &nbsp;
 #### **Motivação da criação da linguagem**  
@@ -40,7 +66,14 @@ utilizados e o faz no momento que esses perdem a referência*;
 - *A máquina virtual Java roda outras linguagens (cerca de 350 linguagens);*
 - *O Java foi testado, refinado, estendido e comprovado por uma comunidade dedicada de desenvolvedores, arquitetos e entusiastas;*
 - *Ao viabilizar o desenvolvimento de aplicações para ambientes heterogêneos, as empresas se tornam aptas a fornecer mais serviços, aumentar a produtividade, a comunicação e a colaboração com o usuário final;*
-- *A Oracle Academy disponibiliza um portfólio vasto de* softwares, *conteúdos, tecnologias, treinamentos, suportes, um site do desenvolvedor do Java, onde os inscritos recebem* newsletters *voltadas para a tecnologia, cursos e certificações virtuais pela* Web *ou presenciais.*
+- *A Oracle Academy disponibiliza um portfólio vasto de* softwares, *conteúdos, tecnologias, treinamentos, suportes, um site do desenvolvedor do Java, onde os inscritos recebem* newsletters *voltadas para a tecnologia, cursos e certificações virtuais pela* Web *ou presenciais.*  
+   
+&nbsp;
+#### **Plataformas Java**
+- Java Standard Edition (JSE): *versão padrão do Java, permite desenvolver diversos aplicativos para* desktop. *Nela existem pacotes para o desenvolvimento de programas em console ou, por exemplo,* Swing.
+- Java Micro Edition (JME): *é voltada para o desenvolvimento de embarcados e dispositivos móveis. Ela foi dividida em duas frentes: para os dispositivos com poder computacional limitado,* Connected Limited Device Configuration *(CLDC), e dispositivos com um poder computacional um pouco maior* Connected Device Configuration *(CDC).*
+- Java TV: *juntamente com o JME, traz uma API que possibilita o desenvolvimento para a televisão digital, devido aos recursos de fluxo de áudio e vídeo, acesso aos dados nos canais de transmissão e sincronia das mídias.*
+- Java Enterprise Edition (JEE): *é voltada para empresas e aplicativos* web. *Uma de suas grandes características é a necessidade de um servidor de aplicação. Dentre os* frameworks *dessa plataforma podemos citar: o* Java Server Pages (JSP), *que executa Java em formato de página; o* Java Persistence API (JPA), *que funciona como um padrão de persistência, permitindo alterar o* framework *de persistência em impacto na aplicação; o* Java Server Faces (JSF), *responsável pela camada de visão para os programas que utilizam o padrão MVC* (Model View Control), *utiliza o AJAX de maneira nativa.*  
 
 &nbsp;
 ### **Referências**
