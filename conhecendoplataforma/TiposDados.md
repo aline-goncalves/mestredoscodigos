@@ -2,6 +2,7 @@
 
 **1. O Java possui vários tipos de dados primitivos para resolvermos diversos problemas e, para cada tipo primitivo, existe uma classe *WRAPPER*. Pontue:**
 - **Diferença entre os tipos primitivos e as classes *Wrapper*;**   
+
 &nbsp;*Tipos primitivos são tipos de variáveis mais utilizados em métodos simples e laços de repetição. Seu processamento é mais rápido e consome menos memória quando comparados às classes* Wrappers.
 
 &nbsp;*Cada tipo primitivo possui sua classe* Wrapper, *a qual disponibiliza métodos e a possibilidade de utilização de recursos impossíveis com os tipos primitivos.* Wrappers *são mais utilizados em casos mais complexos, e compõem o pacote* java.lang, *que é importado por padrão em todos programas Java.*
@@ -11,44 +12,44 @@
 - **Quais são os tipos primitivos e suas classes *Wrapper*;**
 
 <center>
-<table>
-    <tr>
-        <td><b>Tipos Primitivos</b></td>
-        <td><b>Classes Wrapper</b></td>
-    </tr>
-     <tr>
-        <td>boolean</td>
-        <td>Boolean</td>
-    </tr>
-     <tr>
-        <td>byte</td>
-        <td>Byte</td>
-    </tr>
-     <tr>
-        <td>char</td>
-        <td>Character</td>
-    </tr>
-     <tr>
-        <td>int</td>
-        <td>Integer</td>
-    </tr>
-     <tr>
-        <td>float</td>
-        <td>Float</td>
-    </tr>
-         <tr>
-        <td>double</td>
-        <td>Double</td>
-    </tr>
-     <tr>
-        <td>long</td>
-        <td>Long</td>
-    </tr>
-     <tr>
-        <td>short</td>
-        <td>Short</td>
-    </tr>
-</table>
+    <table>
+        <tr>
+            <td><b>Tipos Primitivos</b></td>
+            <td><b>Classes Wrapper</b></td>
+        </tr>
+        <tr>
+            <td>boolean</td>
+            <td>Boolean</td>
+        </tr>
+        <tr>
+            <td>byte</td>
+            <td>Byte</td>
+        </tr>
+        <tr>
+            <td>char</td>
+            <td>Character</td>
+        </tr>
+        <tr>
+            <td>int</td>
+            <td>Integer</td>
+        </tr>
+        <tr>
+            <td>float</td>
+            <td>Float</td>
+        </tr>
+            <tr>
+            <td>double</td>
+            <td>Double</td>
+        </tr>
+        <tr>
+            <td>long</td>
+            <td>Long</td>
+        </tr>
+        <tr>
+            <td>short</td>
+            <td>Short</td>
+        </tr>
+    </table>
 </center>
 
 - **Qual o valor default de cada tipo primitivo e de cada classe *Wrapper*;**
