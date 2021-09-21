@@ -1,61 +1,143 @@
 ## **Trabalhando com tipos de dados**
 
 **1. O Java possui vários tipos de dados primitivos para resolvermos diversos problemas e, para cada tipo primitivo, existe uma classe *WRAPPER*. Pontue:**
-- **Diferença entre os tipos primitivos e as classes *Wrapper*;**
+- **Diferença entre os tipos primitivos e as classes *Wrapper*;**   
+&nbsp;*Tipos primitivos são tipos de variáveis mais utilizados em métodos simples e laços de repetição. Seu processamento é mais rápido e consome menos memória quando comparados às classes* Wrappers.
+
+&nbsp;*Cada tipo primitivo possui sua classe* Wrapper, *a qual disponibiliza métodos e a possibilidade de utilização de recursos impossíveis com os tipos primitivos.* Wrappers *são mais utilizados em casos mais complexos, e compõem o pacote* java.lang, *que é importado por padrão em todos programas Java.*
+
+&nbsp;*Por se tratarem de classes, é possivel a criação de um objeto do tipo* Wrapper, *logo, adicioná-lo a um* ArrayList *ou a um* HashMap. *Também é possível invocar um método de sua classe, como por exemplo, converter tipos, realizar comparações e operações matemáticas.*
+
 - **Quais são os tipos primitivos e suas classes *Wrapper*;**
 
 <center>
 <table>
     <tr>
         <td><b>Tipos Primitivos</b></td>
-        <td> </td>
         <td><b>Classes Wrapper</b></td>
     </tr>
      <tr>
         <td>boolean</td>
-        <td> </td>
         <td>Boolean</td>
     </tr>
      <tr>
         <td>byte</td>
-        <td> </td>
         <td>Byte</td>
     </tr>
      <tr>
         <td>char</td>
-        <td> </td>
         <td>Character</td>
     </tr>
      <tr>
         <td>int</td>
-        <td> </td>
         <td>Integer</td>
     </tr>
      <tr>
         <td>float</td>
-        <td> </td>
         <td>Float</td>
     </tr>
          <tr>
         <td>double</td>
-        <td> </td>
         <td>Double</td>
     </tr>
      <tr>
         <td>long</td>
-        <td> </td>
         <td>Long</td>
     </tr>
      <tr>
         <td>short</td>
-        <td> </td>
         <td>Short</td>
     </tr>
 </table>
 </center>
 
 - **Qual o valor default de cada tipo primitivo e de cada classe *Wrapper*;**
+*Valor* default *dos tipos primitivos:*
+<center>
+<table>
+    <tr>
+        <td><b>Tipos Primitivos</b></td>
+        <td><b>Valor Default</b></td>
+    </tr>
+     <tr>
+        <td>boolean</td>
+        <td>false</td>
+    </tr>
+     <tr>
+        <td>byte</td>
+        <td>0</td>
+    </tr>
+     <tr>
+        <td>char</td>
+        <td>\u0000 ou 0</td>
+    </tr>
+     <tr>
+        <td>int</td>
+        <td>0</td>
+    </tr>
+     <tr>
+        <td>float</td>
+        <td>0.0f</td>
+    </tr>
+         <tr>
+        <td>double</td>
+        <td>0.0d</td>
+    </tr>
+     <tr>
+        <td>long</td>
+        <td>0L</td>
+    </tr>
+     <tr>
+        <td>short</td>
+        <td>0</td>
+    </tr>
+</table>
+</center>
+
+*Valor* default *das classes* Wrapper: *se tratando de classes, logo sua utilização está relacionada à declaração de um objeto. Sendo assim, o valor padrão é* null.
+
 - **Como consigo converter cada tipo primitivo em uma classe *Wrapper* e como consigo converter cada classe *Wrapper* em um tipo primitivo;**
+<center>
+<table>
+    <tr>
+        <td><b>Tipos Primitivos em Wrappers</b></td>
+        <td><b>Wrappers em Tipos Primitivos</b></td>
+    </tr>
+     <tr>
+        <td>boolean</td>
+        <td>Boolean</td>
+    </tr>
+     <tr>
+        <td>byte</td>
+        <td>Byte</td>
+    </tr>
+     <tr>
+        <td>char</td>
+        <td>Character</td>
+    </tr>
+     <tr>
+        <td>int</td>
+        <td>Integer</td>
+    </tr>
+     <tr>
+        <td>float</td>
+        <td>Float</td>
+    </tr>
+         <tr>
+        <td>double</td>
+        <td>Double</td>
+    </tr>
+     <tr>
+        <td>long</td>
+        <td>Long</td>
+    </tr>
+     <tr>
+        <td>short</td>
+        <td>Short</td>
+    </tr>
+</table>
+</center>
+
 - **Um exemplo de utilização de cada tipo durante o desenvolvimento de *software*.**  
 
 
