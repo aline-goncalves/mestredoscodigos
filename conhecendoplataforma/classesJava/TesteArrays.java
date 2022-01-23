@@ -1,3 +1,4 @@
+package classesJava;
 
 /*
 É comum a necessidade de armazenamento de variáveis em memória sequencial. 
