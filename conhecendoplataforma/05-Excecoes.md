@@ -8,3 +8,5 @@
 - **Faça um algoritmo demonstrando o uso do bloco *try-catch-finally*;**  
 - **Faça uma pesquisa e demonstre quando ocorrem as exceções: *ArithmeticException, ArrayIndexOutOfBoundsException, ClassNotFoundException, - IOException, IllegalArgumentException, InterruptedException e NullPointerException*;**  
 - **Faça um algoritmo implementando uma exceção customizada.**  
+
+    ### *Resolução ainda não disponível*
