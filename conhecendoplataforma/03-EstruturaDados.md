@@ -6,9 +6,12 @@
 
 - **Demonstre, por meio de algoritmos, a utilização de cada uma delas, ressaltando qual o tipo de problema cada uma resolve e qual a importância de fazer a escolha certa.**    
 
+    ### *Resolução ainda não disponível*
+
 **9. O Java fornece uma segunda forma de trabalhar com estrutura de dados tão importante quanto a primeira. São as classes e interfaces relacionadas a trabalhar com mapas. Veja o diagrama de classes e:** 
 
 ![Alt text](uteis/MapInterface.png?raw=true "Collection Interface")
 
 - **Demonstre, por meio de algoritmos, a utilização de cada uma delas, ressaltando qual tipo de problema cada uma resolve e qual a importância de fazer a escolha certa.**
 
+    ### *Resolução ainda não disponível*
