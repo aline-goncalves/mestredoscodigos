@@ -8,9 +8,13 @@
 - **A criação de construtores padrão, construtores com argumentos e a sobrecarga de construtores;**   
 - **A aplicação de encapsulamento utilizando os modificadores de acesso.**   
 
+    ### *Resolução ainda não disponível*
+
 **11. Outros pilares da POO são a herança e o polimorfismo. Por isso, pesquise e demonstre, por meio de algoritmos:**   
 - **Reaproveitamento de comportamentos de um objeto por meio da herança;**   
 - **A utilização de classes abstratas, métodos abstratos e interfaces;**   
-- **A utilização de métodos default em interfaces;**   
+- **A utilização de métodos *default* em interfaces;**   
 - **A utilização das palavras reservadas *'this'* e *'super'*;**   
 - **Desenvolva um código que mostre o uso do polimorfismo com herança de classes e a implementação de interfaces.**   
+
+    ### *Resolução ainda não disponível*
